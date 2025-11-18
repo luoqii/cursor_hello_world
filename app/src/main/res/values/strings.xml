@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StepTracker</string>
+    <string name="permission_rationale">应用需要运动和定位权限以捕获实时步数和运动轨迹。</string>
+    <string name="request_permissions">授予权限</string>
+    <string name="start_tracking">开始追踪</string>
+    <string name="step_count_label">当前步数</string>
+    <string name="distance_label">累计距离</string>
+    <string name="meters_unit">米</string>
+    <string name="no_path">轨迹将会在这里展示</string>
+    <string name="tracking_active">追踪进行中</string>
+    <string name="tracking_paused">等待权限…</string>
+</resources>
